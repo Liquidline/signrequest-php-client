@@ -1,6 +1,6 @@
 {
     "name": "liquidline/signrequest-php-client",
-    "version": "1.4.1",
+    "version": "1.4.2",
     "description": "Official PHP client for SignRequest.com (https://signrequest.com)",
     "keywords": [
         "signrequest",
