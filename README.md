@@ -19,6 +19,18 @@ To install the bindings via [Composer](http://getcomposer.org/), add the followi
 
 ```
 {
+    "repositories": {
+        "liquidline/signrequest-php-client": {
+            "type": "vcs",
+            "url": "https://github.com/liquidline/signrequest-php-client.git"
+        },
+    }
+}
+```  
+
+
+```     
+{
   "require": {
     "signrequest/signrequest-client": "1.4.1"
   }
