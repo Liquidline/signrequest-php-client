@@ -10,7 +10,7 @@ https://github.com/SignRequest/signrequest-php-example
 
 ## Requirements
 
-PHP 5.5 and later
+PHP 7.1 and later
 
 ## Installation & Usage
 ### Composer
@@ -20,7 +20,7 @@ To install the bindings via [Composer](http://getcomposer.org/), add the followi
 ```
 {
   "require": {
-    "signrequest/signrequest-client": "1.3.0"
+    "signrequest/signrequest-client": "1.4.1"
   }
 }
 ```
